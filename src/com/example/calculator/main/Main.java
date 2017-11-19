@@ -11,7 +11,7 @@ public class Main {
 		
 		ScientificCalculator scientificCalculator = new ScientificCalculator();
 		System.out.println(scientificCalculator.square(10.0));
-		//test
+		//test2
 		System.out.println(scientificCalculator.remainder(10, 2));
 	}
 
